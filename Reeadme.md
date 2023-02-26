@@ -22,3 +22,5 @@ Convert p12 to .crt
 # because other tools and users mostly don't use that name
 
 
+usefull app:
+https://hohnstaedt.de/xca/
